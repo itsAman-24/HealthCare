@@ -69,7 +69,7 @@ const Footer = () => {
                                 spacing={1} >
                                 <Avatar sx={{ mt: 1, bgcolor: pink[500] }}>
                                     <LocationOnIcon />
-                                </Avatar><span>kathmandu ,Nepal</span>
+                                </Avatar><span>Chandigarh ,India</span>
                             </Stack >
 
                             <Stack direction="row"
@@ -80,7 +80,7 @@ const Footer = () => {
                                     <EmailIcon />
                                 </Avatar>
                                 <a className='text-style' href="mailto:bastolaronak12@gmail.com">
-                                bastolaronak12@gmail.com
+                                amanpan2410@gmail.com
                                 </a>
                             </Stack >
 
@@ -92,7 +92,7 @@ const Footer = () => {
                                     <CallIcon />
                                 </Avatar>
                                 <a className='text-style' href="tel:01680xxx86">
-                                +977-9862164447
+                                +977-8847416991g
                                 </a>
                             </Stack >
 
